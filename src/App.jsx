@@ -3,7 +3,7 @@ import {Switch,Route,BrowserRouter as Router} from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 import Navbar from './components/Navbar';
-import Cart from './components/Cart';
+import Cart from './components/Cart/Cart';
 import Details from './components/Details';
 import Default from './components/Default';
 import ProductList from './components/ProductList';
